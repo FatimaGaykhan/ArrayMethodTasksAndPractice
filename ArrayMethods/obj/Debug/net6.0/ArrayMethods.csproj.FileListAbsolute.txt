@@ -1,0 +1,15 @@
+/Users/fatimagaykhanova/Desktop/ArrayMethods/ArrayMethods/bin/Debug/net6.0/ArrayMethods
+/Users/fatimagaykhanova/Desktop/ArrayMethods/ArrayMethods/bin/Debug/net6.0/ArrayMethods.deps.json
+/Users/fatimagaykhanova/Desktop/ArrayMethods/ArrayMethods/bin/Debug/net6.0/ArrayMethods.runtimeconfig.json
+/Users/fatimagaykhanova/Desktop/ArrayMethods/ArrayMethods/bin/Debug/net6.0/ArrayMethods.dll
+/Users/fatimagaykhanova/Desktop/ArrayMethods/ArrayMethods/bin/Debug/net6.0/ArrayMethods.pdb
+/Users/fatimagaykhanova/Desktop/ArrayMethods/ArrayMethods/obj/Debug/net6.0/ArrayMethods.csproj.AssemblyReference.cache
+/Users/fatimagaykhanova/Desktop/ArrayMethods/ArrayMethods/obj/Debug/net6.0/ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimagaykhanova/Desktop/ArrayMethods/ArrayMethods/obj/Debug/net6.0/ArrayMethods.AssemblyInfoInputs.cache
+/Users/fatimagaykhanova/Desktop/ArrayMethods/ArrayMethods/obj/Debug/net6.0/ArrayMethods.AssemblyInfo.cs
+/Users/fatimagaykhanova/Desktop/ArrayMethods/ArrayMethods/obj/Debug/net6.0/ArrayMethods.csproj.CoreCompileInputs.cache
+/Users/fatimagaykhanova/Desktop/ArrayMethods/ArrayMethods/obj/Debug/net6.0/ArrayMethods.dll
+/Users/fatimagaykhanova/Desktop/ArrayMethods/ArrayMethods/obj/Debug/net6.0/refint/ArrayMethods.dll
+/Users/fatimagaykhanova/Desktop/ArrayMethods/ArrayMethods/obj/Debug/net6.0/ArrayMethods.pdb
+/Users/fatimagaykhanova/Desktop/ArrayMethods/ArrayMethods/obj/Debug/net6.0/ArrayMethods.genruntimeconfig.cache
+/Users/fatimagaykhanova/Desktop/ArrayMethods/ArrayMethods/obj/Debug/net6.0/ref/ArrayMethods.dll
